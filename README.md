@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Hjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjc0930&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjc0930)
 
 **hjc0930/hjc0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,ts,java" />
+  </a>
+</p>
