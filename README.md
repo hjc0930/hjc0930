@@ -9,11 +9,11 @@
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/qhanw/github-stats-visual/master/generated/overview.svg#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/qhanw/github-stats-visual/master/generated/overview.svg#gh-light-mode-only" alt="" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hjc0930&count_private=true&show_icons=true" alt="" style="max-width: 100%;">
   </a>
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/qhanw/github-stats-visual/master/generated/languages.svg#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/qhanw/github-stats-visual/master/generated/languages.svg#gh-light-mode-only" alt="" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjc0930" alt="" style="max-width: 100%;">
   </a>
 </p>
 
