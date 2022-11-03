@@ -12,6 +12,6 @@
 ### 🔨 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,ts,java" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,ts,react,vue,scss,less,gulp,webpack,vite,next,vscode" />
   </a>
 </p>
