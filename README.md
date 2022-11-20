@@ -3,7 +3,7 @@
 前端工程师一枚，喜欢思考，喜欢和人讨论技术
 
 - 🎉 技术栈 React、NodeJS、TypeScript等。
-- 🔭 目前正在学习CI/CD方面的知识
+<!-- - 🔭 目前正在学习CI/CD方面的知识 -->
 
 ### 📊 Github Stats
 
