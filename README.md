@@ -4,7 +4,7 @@
 
 🎉 技术栈 JavaScript、TypeScript、React等。
 
-### 📊 社交媒体
+### 📊 Social Media
 
 - [博客](https://hjc0930.github.io/)
 - [掘金](https://juejin.cn/user/87601131292839)
