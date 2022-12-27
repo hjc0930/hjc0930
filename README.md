@@ -2,7 +2,7 @@
 
 前端程序员，喜欢思考，喜欢和人讨论技术
 
-个人主页：https://hjc0930.github.io/
+- [博客](https://hjc0930.github.io/)
 
 - 🎉 技术栈 JavaScript、TypeScript、React等。
 <!-- - 🔭 目前正在学习CI/CD方面的知识 -->
