@@ -6,8 +6,8 @@
 
 ### 📊 Social Media
 
-- [博客](https://hjc0930.github.io/)
-- [掘金](https://juejin.cn/user/87601131292839)
+- [Blog](https://hjc0930.github.io/)
+- [JueJin](https://juejin.cn/user/87601131292839)
 
 <!-- - 🔭 目前正在学习CI/CD方面的知识 -->
 
