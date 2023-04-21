@@ -2,7 +2,7 @@
 
 前端程序员，喜欢思考，喜欢和人讨论技术
 
-🎉 技术栈 JavaScript、TypeScript、React等。
+技术栈 JavaScript、TypeScript、React等。
 
 ### 📊 Social Media
 
