@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-前端程序员，喜欢思考，喜欢和人讨论技术
+Front end Dev, like technology, like discuss.
 
-技术栈 JavaScript、TypeScript、React等。
+Technology stack: JavaScript、TypeScript、React
 
 ### 📊 Social Media
 
 - [Blog](https://hjc0930.github.io/)
 - [掘金](https://juejin.cn/user/87601131292839/posts)
 - [语雀](https://www.yuque.com/zhidian0930/hjc)
-
-<!-- - 🔭 目前正在学习CI/CD方面的知识 -->
 
 ### 📊 Github Stats
 
