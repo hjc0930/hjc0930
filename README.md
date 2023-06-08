@@ -7,8 +7,8 @@ Technology stack: JavaScript、TypeScript、React
 ### 📊 Social Media
 
 - [Blog](https://hjc0930.github.io/)
-- [掘金](https://juejin.cn/user/87601131292839/posts)
-- [语雀](https://www.yuque.com/zhidian0930/hjc)
+- [Forum](https://juejin.cn/user/87601131292839/posts)
+- [Document](https://www.yuque.com/zhidian0930/hjc)
 
 ### 📊 Github Stats
 
