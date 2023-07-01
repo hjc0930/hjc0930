@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Dev, like technology, like discuss1.
+A Dev, like technology, like discuss.
 
 Technology stack: JavaScript、TypeScript、React
 
