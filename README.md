@@ -4,6 +4,8 @@ A Dev, like technology, like discuss.
 
 Technology stack: JavaScript、TypeScript、React etc.
 
+Welcome to communicate: hjc_0827@outlook.com
+
 ### 📊 Social Media
 
 - [Blog](https://hjc0930.github.io/)
