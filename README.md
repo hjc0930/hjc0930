@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 A Dev, like technology, like discuss.
-1
+
 Technology stack: JavaScript、TypeScript、React etc.
 
 Welcome to communicate: hjc_0827@outlook.com
