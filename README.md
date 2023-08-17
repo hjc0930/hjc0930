@@ -2,7 +2,7 @@
 
 A Dev, like technology, like discuss.
 
-Technology stack: JavaScript、TypeScript、React etc.
+Technology stack: JavaScript、TypeScript、React etc.1
 
 ### 📊 Social Media
 
