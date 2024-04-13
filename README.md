@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A Dev, like technology, like discuss.
+A Software Engineer. Likes coding, fine food and reading.
 
-Technology stack: JavaScript、TypeScript、React etc.
+Competence: HTML&CSS、JavaScript、React、NodeJS、Webpack、Vite etc.
 
 ### 📊 Social Media
 
