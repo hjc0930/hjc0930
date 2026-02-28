@@ -6,7 +6,7 @@ Competence: HTML&CSS、JavaScript、React、NodeJS、Webpack、Vite etc.
 
 ### 📊 Social Media
 
-- [Blog]([https://hjc0930.github.io/](https://juejin.cn/user/87601131292839/posts)
+- [Blog](https://juejin.cn/user/87601131292839/posts)
 
 ### 📊 Github Stats
 
