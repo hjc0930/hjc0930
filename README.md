@@ -8,10 +8,6 @@ Competence: HTML&CSS、JavaScript、React、NodeJS、Webpack、Vite etc.
 
 - [Blog](https://juejin.cn/user/87601131292839/posts)
 
-### 📊 Github Stats
-
-![Hjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjc0930&count_private=true&show_icons=true)
-
 ### 🔨 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
